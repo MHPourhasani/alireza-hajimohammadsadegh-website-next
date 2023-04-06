@@ -7,8 +7,8 @@ import Link from 'next/link';
 import { MdClose } from 'react-icons/md';
 
 // images
-import am_logo_dark from '../../images/logos/am-logo-dark.png';
-import am_logo_light from '../../images/logos/am-logo-light.png';
+import ah_logo_dark from '../../images/logos/ah-logo-dark.png';
+import ah_logo_light from '../../images/logos/ah-logo-light.png';
 
 const MobileMenu = ({ darkMode }) => {
 	const [open, setOpen] = useState(true);
@@ -54,7 +54,7 @@ const MobileMenu = ({ darkMode }) => {
 										<div className='flex items-center justify-between'>
 											<Link href='/'>
 												<Image
-													src={darkMode ? am_logo_dark : am_logo_light}
+													src={darkMode ? ah_logo_dark : ah_logo_light}
 													alt='logo'
 													className='h-auto w-16'
 												/>
