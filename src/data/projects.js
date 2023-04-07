@@ -42,13 +42,13 @@ export const projects = {
 			id: 6,
 			name: 'صبح جماعت',
 			posterSrc: sobhe_jamaat,
-			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyQCyLbZvYqVL0Vp?e=8Bs78K',
+			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyQCyLbZvYqVL0Vp?e=CBOAk3',
 		},
 		{
 			id: 7,
 			name: 'عیدانه',
 			posterSrc: eydaneh,
-			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyIjDVkvJTff_yrs?e=oejN6x',
+			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyIjDVkvJTff_yrs?e=M6IE2a',
 		},
 		{
 			id: 8,
