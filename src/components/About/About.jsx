@@ -40,7 +40,7 @@ const About = () => {
 				</span>
 
 				<a
-					href='#skills'
+					href='#projects'
 					className='w-40 rounded-md bg-primary py-2.5 text-center text-sm font-light text-white shadow-md shadow-rose-400 transition-all ease-in hover:bg-rose-700 dark:shadow-rose-800 lg:w-48 lg:text-base'>
 					فعالیت های انجام شده
 				</a>
