@@ -1,6 +1,7 @@
 import parchame_entegham from '../images/projects/soroud cover/Parchame Entegham-cover.jpg';
 import shokouhe_heydar from '../images/projects/soroud cover/Shokouhe Heydar-cover.jpg';
 import najaf_ta_karbala from '../images/projects/soroud cover/Najaf Ta Karbala-cover.jpg';
+import sedaye_ghadr from '../images/projects/soroud cover/Sedaye Ghadr-cover.jpg';
 import sobhe_jamaat from '../images/projects/soroud cover/Sobhe Jamaat-cover.jpg';
 import eydaneh from '../images/projects/soroud cover/Eydaneh-cover.jpg';
 import daste_karim from '../images/projects/soroud cover/Daste Karim-cover.jpg';
@@ -28,7 +29,7 @@ export const projects = {
 		{
 			id: 4,
 			name: 'صدای قدر',
-			posterSrc: '',
+			posterSrc: sedaye_ghadr,
 			href: 'https://1drv.ms/u/s!ArNeogtEVeNZix8T3US87QCgfP7F?e=ETmOzD',
 		},
 		{
