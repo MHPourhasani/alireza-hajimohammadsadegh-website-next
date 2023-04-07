@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 // components
 import Layout from '@/components/Layout/Layout';
-import Skills from '@/components/Skills/Skills';
+import About from '@/components/About/About';
 import Projects from '@/components/Projects/Projects';
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
 			</Head>
 
 			<Layout>
-				<Skills />
+				<About />
 				<Projects />
 			</Layout>
 		</>

@@ -18,6 +18,7 @@ const Header = ({ darkMode, setDarkMode }) => {
 
 	const listItems = [
 		{ id: 'home', title: 'صفحه اصلی' },
+		{ id: 'about', title: 'درباره من' },
 		{ id: 'projects', title: 'فعالیت های انجام شده' },
 	];
 
