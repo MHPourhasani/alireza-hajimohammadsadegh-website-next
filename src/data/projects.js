@@ -1,7 +1,9 @@
 import parchame_entegham from '../images/projects/soroud cover/Parchame Entegham-cover.jpg';
 import shokouhe_heydar from '../images/projects/soroud cover/Shokouhe Heydar-cover.jpg';
 import najaf_ta_karbala from '../images/projects/soroud cover/Najaf Ta Karbala-cover.jpg';
+import sobhe_jamaat from '../images/projects/soroud cover/Sobhe Jamaat-cover.jpg';
 import eydaneh from '../images/projects/soroud cover/Eydaneh-cover.jpg';
+import daste_karim from '../images/projects/soroud cover/Daste Karim-cover.jpg';
 
 export const projects = {
 	سرود: [
@@ -38,7 +40,7 @@ export const projects = {
 		{
 			id: 6,
 			name: 'صبح جماعت',
-			posterSrc: '',
+			posterSrc: sobhe_jamaat,
 			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyQCyLbZvYqVL0Vp?e=8Bs78K',
 		},
 		{
@@ -50,7 +52,7 @@ export const projects = {
 		{
 			id: 8,
 			name: 'دست کریم',
-			posterSrc: '',
+			posterSrc: daste_karim,
 			href: 'https://1drv.ms/u/s!ArNeogtEVeNZiyUGvYt_pHxbz4ww?e=bD9sRd',
 		},
 	],
