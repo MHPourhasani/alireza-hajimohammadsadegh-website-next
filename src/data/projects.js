@@ -2,7 +2,7 @@ import parchame_entegham from '../images/projects/soroud cover/Parchame Entegham
 import shokouhe_heydar from '../images/projects/soroud cover/Shokouhe Heydar-cover.jpg';
 import najaf_ta_karbala from '../images/projects/soroud cover/Najaf Ta Karbala-cover.jpg';
 import sedaye_ghadr from '../images/projects/soroud cover/Sedaye Ghadr-cover.jpg';
-import sobhe_jamaat from '../images/projects/soroud cover/Sobhe Jamaat-cover.jpg';
+import sobhe_jamaat from '../images/projects/soroud cover/Sobheh Jamaat-cover.jpg';
 import eydaneh from '../images/projects/soroud cover/Eydaneh-cover.jpg';
 import daste_karim from '../images/projects/soroud cover/Daste Karim-cover.jpg';
 
