@@ -9,6 +9,12 @@ import daste_karim from '../images/projects/soroud cover/Daste Karim-cover.jpg';
 import entekhabat_1400_poster from '../images/projects/soroud ejra/Entekhabat 1400-poster.jpg';
 import parchame_entegham_poster from '../images/projects/soroud ejra/Parchame Entegham-poster.jpg';
 import sedaye_ghadr_poster from '../images/projects/soroud ejra/Sedaye Ghadr-poster.jpg';
+import milad_hazrat_zahra from '../images/projects/soroud ejra/milad hazrat zahra.jpg';
+import milad_hazrat_masoumeh from '../images/projects/soroud ejra/milad hazrat masoumeh.jpg';
+import haram_abd_ol_azim from '../images/projects/soroud ejra/haram abd-ol-azim.jpg';
+
+import rezvan_1 from '../images/projects/rezvan/rezvan-1.jpg';
+import rezvan_2 from '../images/projects/rezvan/rezvan-2.jpg';
 
 export const projects = {
 	سرود: [
@@ -86,16 +92,49 @@ export const projects = {
 		},
 		{
 			id: 3,
-			name: 'پرچم انتقام (پخش شده در شبکه 3)',
+			name: 'پخش سرود پرچم انتقام در شبکه 3',
 			posterSrc: parchame_entegham_poster,
 			// href: 'https://1drv.ms/v/s!ArNeogtEVeNZiy35WVHXfv8vcL7H?e=tncZid',
 			href: 'https://drive.google.com/file/d/1_QnrYCJLbaE483ObdhC1bvy3Wl5AlbWO/view?usp=share_link',
 		},
 		{
 			id: 4,
-			name: 'صدای قدر (پخش شده در شبکه 5)',
+			name: 'پخش سرود صدای قدر در شبکه 5',
 			posterSrc: sedaye_ghadr_poster,
 			href: 'https://drive.google.com/file/d/1eB15NZ5U0sGK84_15EpIOC5BPCT7edRS/view?usp=share_link',
+		},
+		{
+			id: 5,
+			name: 'ميلاد حضرت فاطمه زهرا (س)',
+			posterSrc: milad_hazrat_zahra,
+			href: 'https://drive.google.com/file/d/1eB15NZ5U0sGK84_15EpIOC5BPCT7edRS/view?usp=share_link',
+		},
+		{
+			id: 6,
+			name: 'ميلاد حضرت فاطمه معصومه (س)',
+			posterSrc: milad_hazrat_masoumeh,
+			href: 'https://drive.google.com/file/d/1eB15NZ5U0sGK84_15EpIOC5BPCT7edRS/view?usp=share_link',
+		},
+		{
+			id: 7,
+			name: 'اجرا سرود در حرم حضرت عبدالعظیم (ع)',
+			posterSrc: haram_abd_ol_azim,
+			href: 'https://drive.google.com/file/d/1eB15NZ5U0sGK84_15EpIOC5BPCT7edRS/view?usp=share_link',
+		},
+	],
+
+	'طرح رضوان': [
+		{
+			id: 1,
+			name: 'اختتامیه سال 1394 رضوان',
+			posterSrc: rezvan_1,
+			href: 'https://drive.google.com/file/d/1u3uAG9416H2b6syxiY265rSON9A7t_z9/view?usp=share_link',
+		},
+		{
+			id: 2,
+			name: 'راهپیمایی 22 بهمن',
+			posterSrc: rezvan_2,
+			href: 'https://drive.google.com/file/d/1Lg-MXQsgi0_Y1HQSiDX3bL8fNPGts15f/view?usp=share_link',
 		},
 	],
 };
