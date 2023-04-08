@@ -129,12 +129,6 @@ export const projects = {
 			name: 'اختتامیه سال 1394 رضوان',
 			posterSrc: rezvan_1,
 			href: 'https://drive.google.com/file/d/1u3uAG9416H2b6syxiY265rSON9A7t_z9/view?usp=share_link',
-		},
-		{
-			id: 2,
-			name: 'راهپیمایی 22 بهمن',
-			posterSrc: rezvan_2,
-			href: 'https://drive.google.com/file/d/1Lg-MXQsgi0_Y1HQSiDX3bL8fNPGts15f/view?usp=share_link',
-		},
+		}
 	],
 };
